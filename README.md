@@ -1,4 +1,4 @@
-Hosted Link of the Project: 
+Hosted Link of the Project: https://singhpratibha98.github.io/DOM-project-1-repo/
 
 1)In this DOM project i have use the DOM manipulation as .getElementById of that particular div. 
 2)first i have make a one div and given a name as "hero". and written that "hello, I'm a div!".
